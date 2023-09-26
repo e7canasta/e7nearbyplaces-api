@@ -1,0 +1,948 @@
+{
+  'html_attributions': [],
+  'next_page_token': 'ATJ83zgtebcafUVAkpa_Dq8YbMcqZzhvM9KSOiFc-EfU_kwYjs8-3t_t_X3DOJ_xpX5HdwiNeUnaWUbEGJh7xJGeCryiX_jIDw-MMa-NroNlMogP4_zc2cY5-pnJuvdJJxA0A1zZHNTKduBXQARwpXphNztLL9bmMO55mQ97Ws7isLLyr0EMFM4-V-Uqu9enLwWWSV0_psfdR7Od_p0f8o9vZQTY7sML8hAMxB_f9n3hmRXVu_q3s4LjVQ9Ld339HsNr_zsBc8EFkpzm7GEddRJqPcbPBuM4C0sU0Ynt1dcIh-M5Qbp1Mitmn1ghO3dj0otjr2Sfv2FRU4goqnPmXi4EfE2fzA8vxHvF7eB4BE8gdXH2EAxdodrTMwIh0pM_cRM9Hqlqrf2Tp5NFS-3DO8FWdThZ2wU6PKRv_5mIg0PlvaU5xINSGb87k9pupOEjYFiA5AnFBVFHzNm5uozwr4zFU40njPLdYoBfjw8',
+  'results': [
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Directorio 5425, C1440 ASG, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6536134,
+          'lng': -58.4945436
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65230127010727,
+            'lng': -58.49314687010728
+          },
+          'southwest': {
+            'lat': -34.65500092989272,
+            'lng': -58.49584652989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Supermercado carnicería verdulería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 1080,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/103247622280979675800">Funren You</a>'
+          ],
+          'photo_reference': 'ATJ83zjVmjGXQGRK7MjU8_8fexXhQZppTu1i2YeD32FLn0xn8j644wJj-btm6_euLcbYmuFlKDgz-4dxNQczEJXabZ9zOANdl06mQJTwmiCTF_oa0VIFJZ--o7io6dFLiWvoKzSPB8DCKqKCfPaAOA45najMxXqwvYK2e-MYBRsJ3nvOOjQw',
+          'width': 1920
+        }
+      ],
+      'place_id': 'ChIJBYPSTuvJvJURX_kAO6P0Qwc',
+      'plus_code': {
+        'compound_code': '8GW4+H5 Buenos Aires',
+        'global_code': '48Q38GW4+H5'
+      },
+      'rating': 4.7,
+      'reference': 'ChIJBYPSTuvJvJURX_kAO6P0Qwc',
+      'types': [
+        'supermarket',
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 12
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Blanco Encalada 1200, B1768BIP Villa Madero, Provincia de Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6850051,
+          'lng': -58.4969063
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.68369167010727,
+            'lng': -58.49558782010727
+          },
+          'southwest': {
+            'lat': -34.68639132989272,
+            'lng': -58.49828747989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carnicería-verduleria',
+      'place_id': 'ChIJKxoTMq7JvJURS_KvBaT0qjQ',
+      'plus_code': {
+        'compound_code': '8G73+X6 Ciudad Madero, Buenos Aires Province',
+        'global_code': '48Q38G73+X6'
+      },
+      'rating': 0,
+      'reference': 'ChIJKxoTMq7JvJURS_KvBaT0qjQ',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 0
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'ABC, Lambaré 921, C1185 C1185ABC, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6042234,
+          'lng': -58.4306132
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.60288182010728,
+            'lng': -58.42915507010729
+          },
+          'southwest': {
+            'lat': -34.60558147989273,
+            'lng': -58.43185472989273
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Verdulería Y Carnicería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 1280,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/109824319525236577843">Insumos Acuarios</a>'
+          ],
+          'photo_reference': 'ATJ83zgC8bmKAqSZoFdLdJDpCwZ6Ph8fGWwyMK-YnH5m_DxKHgLWoey8yltGIpL5JHuv7byEL2A5JlMjLndC5jrcYXdyofzsFFAxf_9UgU8Sp_0pBwlmR2kU3j2qd4KItg_xfFgQquacuZAysP5hAzczuaaB_4VwuxXnh8eEmvh1fNM93UtZ',
+          'width': 640
+        }
+      ],
+      'place_id': 'ChIJyzQ0om_KvJURwBaAlLK5GuI',
+      'plus_code': {
+        'compound_code': '9HW9+8Q Buenos Aires',
+        'global_code': '48Q39HW9+8Q'
+      },
+      'rating': 3.6,
+      'reference': 'ChIJyzQ0om_KvJURwBaAlLK5GuI',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 5
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Jujuy 1901 C1261ACH, C1247 ABH, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6327249,
+          'lng': -58.40015460000001
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.63137012010728,
+            'lng': -58.39878277010727
+          },
+          'southwest': {
+            'lat': -34.63406977989273,
+            'lng': -58.40148242989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carniceria y Verduleria',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJk-XoxLTLvJURXZ3AuUMQynM',
+      'plus_code': {
+        'compound_code': '9H8X+WW Buenos Aires',
+        'global_code': '48Q39H8X+WW'
+      },
+      'rating': 4.4,
+      'reference': 'ChIJk-XoxLTLvJURXZ3AuUMQynM',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 52
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'San José 699, C1424AHM C1424AHM, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.616618,
+          'lng': -58.3859946
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.61526807010728,
+            'lng': -58.38459472010728
+          },
+          'southwest': {
+            'lat': -34.61796772989272,
+            'lng': -58.38729437989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Verdulería Y Carnicería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJo2OG-NjKvJURQwi3sP2-p-M',
+      'plus_code': {
+        'compound_code': '9JM7+9J Buenos Aires',
+        'global_code': '48Q39JM7+9J'
+      },
+      'rating': 4.3,
+      'reference': 'ChIJo2OG-NjKvJURQwi3sP2-p-M',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 3
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Corvalán 1591, C1440 CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6528364,
+          'lng': -58.4918401
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65148082010729,
+            'lng': -58.49048337010728
+          },
+          'southwest': {
+            'lat': -34.65418047989273,
+            'lng': -58.49318302989273
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Almacén • Kiosko • Supermercado • CyP',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJZ0MEGdjJvJURdqmllWIR05c',
+      'plus_code': {
+        'compound_code': '8GW5+R6 Buenos Aires',
+        'global_code': '48Q38GW5+R6'
+      },
+      'rating': 0,
+      'reference': 'ChIJZ0MEGdjJvJURdqmllWIR05c',
+      'types': [
+        'supermarket',
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 0
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Sáenz 46, C1437DNN CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6395373,
+          'lng': -58.41591099999999
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.63818967010728,
+            'lng': -58.41468157010727
+          },
+          'southwest': {
+            'lat': -34.64088932989272,
+            'lng': -58.41738122989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carniceria Fruteria y Verduleria Daiana',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJUTFkxwnLvJURfLnALMW9m5w',
+      'plus_code': {
+        'compound_code': '9H6M+5J Buenos Aires',
+        'global_code': '48Q39H6M+5J'
+      },
+      'rating': 4.3,
+      'reference': 'ChIJUTFkxwnLvJURfLnALMW9m5w',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 12
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'C1437 Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.65233449999999,
+          'lng': -58.3993652
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65100532010727,
+            'lng': -58.39800667010727
+          },
+          'southwest': {
+            'lat': -34.65370497989272,
+            'lng': -58.40070632989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Carniceria y verduleria yamila',
+      'opening_hours': {
+        'open_now': False
+      },
+      'place_id': 'ChIJvz7R8iTLvJURyB-ERWthot4',
+      'plus_code': {
+        'compound_code': '8JX2+37 Buenos Aires',
+        'global_code': '48Q38JX2+37'
+      },
+      'rating': 3,
+      'reference': 'ChIJvz7R8iTLvJURyB-ERWthot4',
+      'types': [
+        'supermarket',
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 2
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Larrazábal 1419, C1440 CUG, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.652457,
+          'lng': -58.501085
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65107522010727,
+            'lng': -58.49969172010727
+          },
+          'southwest': {
+            'lat': -34.65377487989272,
+            'lng': -58.50239137989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carniceria Granja Los Hermanos',
+      'photos': [
+        {
+          'height': 2529,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/107808748944402626136">A Google User</a>'
+          ],
+          'photo_reference': 'ATJ83ziR9MrSgD0emNacE9d67r2MBsWWpUlUvJ5xVGo_Xn5_qdkYAy-l_pA7LLHa_A-d7cQeyi1qLIwG85jcb5SiX5BgyPThhcr0t2IkX1rfhUuHTj8fblMZDeaWwuJuhgItmyI6DTePchP1SVyMywGnM6KsE_vr9E2KRNF5XMsE90RqCgpt',
+          'width': 2943
+        }
+      ],
+      'place_id': 'ChIJu84QbwfJvJURdfkZkAlhyss',
+      'plus_code': {
+        'compound_code': '8FXX+2H Buenos Aires',
+        'global_code': '48Q38FXX+2H'
+      },
+      'rating': 5,
+      'reference': 'ChIJu84QbwfJvJURdfkZkAlhyss',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 4
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Sarmiento 3933, C1197 CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6047858,
+          'lng': -58.4202993
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.60354447010727,
+            'lng': -58.41897017010728
+          },
+          'southwest': {
+            'lat': -34.60624412989272,
+            'lng': -58.42166982989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'VERDULERIA CARNICERIA RONY',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 4024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/117731231259946446588">Emilia Klappenbach</a>'
+          ],
+          'photo_reference': 'ATJ83zjfxe4_3gVqw3ZeodLAI1zKW8moirveQgVDMJ5Q9SRdFcorN-zqGcnZlt2LkGMEGn7rJw9MLIUzAG-8xJLtv7AfdYJGSpHjDLxzUNrj4Jh-tE522NCW6T1K1Jk4T6ITyVzL80t4wp0HGaSGGPVCGCTkD09plVzhEq1SRHLA5aFhMyXI',
+          'width': 3192
+        }
+      ],
+      'place_id': 'ChIJM8HZu8rLvJURv6nJYmW5jEg',
+      'plus_code': {
+        'compound_code': '9HWH+3V Buenos Aires',
+        'global_code': '48Q39HWH+3V'
+      },
+      'rating': 3.8,
+      'reference': 'ChIJM8HZu8rLvJURv6nJYmW5jEg',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 4
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Gral. Lucio Norberto Mansilla 2760, C1170 CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.59555290000001,
+          'lng': -58.4063735
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.59419002010727,
+            'lng': -58.40500792010728
+          },
+          'southwest': {
+            'lat': -34.59688967989271,
+            'lng': -58.40770757989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Carnicería Verdulería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 1080,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/100374279034109482174">A Google User</a>'
+          ],
+          'photo_reference': 'ATJ83zgwod3YeLRC03vKiaE62e01-zDHiupkdPBptZ5OVSwina_L2lzTHlTS4Eyov69hF5XXqDwXUYeAVAYAPdkuAXHmtf97EKiZN3jENcS7AZ6RDengDKYDur_hE7NIxGClvpq5VS2Tl4lV1op_rG2PJjsPM3l3CQOgun8fYVLIKYQuTFmI',
+          'width': 1920
+        }
+      ],
+      'place_id': 'ChIJI9WY5o_KvJURZuNCDSMwJx4',
+      'plus_code': {
+        'compound_code': 'CH3V+QC Buenos Aires',
+        'global_code': '48Q3CH3V+QC'
+      },
+      'rating': 4.8,
+      'reference': 'ChIJI9WY5o_KvJURZuNCDSMwJx4',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 4
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Eva Perón 5305, C1439BSE CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6600563,
+          'lng': -58.48268220000001
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65880757010728,
+            'lng': -58.48122507010727
+          },
+          'southwest': {
+            'lat': -34.66150722989273,
+            'lng': -58.48392472989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carniceria La Ternerita de Mataderos',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/108439507806993728123">Nancy Filippo</a>'
+          ],
+          'photo_reference': 'ATJ83zjAqqYtEKNvyZFQiXsx9ryrVKKsXHsXU651qg0wtUgBQdMkRE_ksKLaqeI4BDQ1Br77dsFSDPpANehbbFMAXVYywlI0Lldy1Qug3Kf01u0_bLrDWQxC5TX1wLPN4O9bvhz7pl-kydZ0ud64UmaG9VJSEGf_80vNg6kULy4kuE8xF8M',
+          'width': 4032
+        }
+      ],
+      'place_id': 'ChIJn5JOZ2zJvJURIgnJgrbIZfM',
+      'plus_code': {
+        'compound_code': '8GQ8+XW Buenos Aires',
+        'global_code': '48Q38GQ8+XW'
+      },
+      'rating': 4.8,
+      'reference': 'ChIJn5JOZ2zJvJURIgnJgrbIZfM',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 103
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Virrey Cevallos 1194, C1077AAX, C1077AAX CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.622343,
+          'lng': -58.3885558
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.62099682010728,
+            'lng': -58.38727452010727
+          },
+          'southwest': {
+            'lat': -34.62369647989272,
+            'lng': -58.38997417989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Carniceria Y Verduleria',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJJy_6cpnLvJURlIBIeny_OWs',
+      'plus_code': {
+        'compound_code': '9JH6+3H Buenos Aires',
+        'global_code': '48Q39JH6+3H'
+      },
+      'rating': 5,
+      'reference': 'ChIJJy_6cpnLvJURlIBIeny_OWs',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 1
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Larrea 87, C1030AAA CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6088874,
+          'lng': -58.4017917
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.60754017010728,
+            'lng': -58.40049197010728
+          },
+          'southwest': {
+            'lat': -34.61023982989272,
+            'lng': -58.40319162989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'CARNICERÍA Y VERDULERÍA 9 DE JULIO',
+      'opening_hours': {
+        'open_now': True
+      },
+      'place_id': 'ChIJYRTVme7KvJURJ6AbuM74P3Y',
+      'plus_code': {
+        'compound_code': '9HRX+C7 Buenos Aires',
+        'global_code': '48Q39HRX+C7'
+      },
+      'rating': 3.7,
+      'reference': 'ChIJYRTVme7KvJURJ6AbuM74P3Y',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 3
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'José Enrique Rodó 6351, C1440AKG C1440AKG, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6579455,
+          'lng': -58.5036917
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.65661927010727,
+            'lng': -58.50231337010728
+          },
+          'southwest': {
+            'lat': -34.65931892989272,
+            'lng': -58.50501302989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet',
+      'name': 'Vanguardia Carniceria',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3724,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/105081017848706724893">esteban Gonzalez</a>'
+          ],
+          'photo_reference': 'ATJ83zipwnyN8jlSvIh3AZbR21M_af5asOBCptKhZfXR8gq_D2OFeQxtIcwabkVc13MP_heThzDq6XWPD35Hp-eRZvzuuzg4Lha3fmeb6rwNXLBwwSB4dCyRKpe0zYFtrGpux28Q-XHecOnTfUQ3tRyqEfXJerygGQ5xhmyanOyKnJtpilvf',
+          'width': 2096
+        }
+      ],
+      'place_id': 'ChIJd_OPorLJvJUR_ICHQ9GeErs',
+      'plus_code': {
+        'compound_code': '8FRW+RF Buenos Aires',
+        'global_code': '48Q38FRW+RF'
+      },
+      'rating': 2.7,
+      'reference': 'ChIJd_OPorLJvJUR_ICHQ9GeErs',
+      'types': [
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 3
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'C1101AAM, Estados Unidos 689, C1101AAM CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6184621,
+          'lng': -58.37560629999999
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.61713447010728,
+            'lng': -58.37425632010727
+          },
+          'southwest': {
+            'lat': -34.61983412989272,
+            'lng': -58.37695597989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Carniceria y Verdulería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 2368,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/111748035638153678023">Daniel Hendi</a>'
+          ],
+          'photo_reference': 'ATJ83zhfRa3supDYnNPt2YGh8qIpazYB9oonHAldqc0R8jfuBUygPdQIw-sY-XXcPuHcjXbepWbdggt6zja7SQeCTc96EWMR_oGy2U1y-9I1FcDqyebK9zwPxsTF-Mjd3YrmMoCNbUL6YA0jIJKSsnlZbL03oLMLe_r-CwL_TFCdwagHwzyi',
+          'width': 4208
+        }
+      ],
+      'place_id': 'ChIJDd7_syvLvJURg48uGcKHz80',
+      'plus_code': {
+        'compound_code': '9JJF+JQ Buenos Aires',
+        'global_code': '48Q39JJF+JQ'
+      },
+      'rating': 3.5,
+      'reference': 'ChIJDd7_syvLvJURg48uGcKHz80',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 4
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Av. Gral. Las Heras 2085, C1127 AAC, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.589366,
+          'lng': -58.3946215
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.58803112010728,
+            'lng': -58.39329007010728
+          },
+          'southwest': {
+            'lat': -34.59073077989272,
+            'lng': -58.39598972989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Carnicería Rubén',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 800,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/115460546760131414315">Ivo C.u.</a>'
+          ],
+          'photo_reference': 'ATJ83ziWjTdhsC1N2zrErWXbja2p8483iSsIpVpJfbDvYMBbBRZj7nnmlKx6VISbHs_6da9jGwhr_l-GB5M5ODoDx8kAJQ-n_VuI2amKtQRVm0dDymDnJQIk-sqXfZ1s0iOYR-mknOoiMYbKnCYME1-Wjnkh1b2hzQfRfv7wxTzMifrMLc5s',
+          'width': 838
+        }
+      ],
+      'place_id': 'ChIJPyVmd5jKvJURF8APzDrjCJo',
+      'plus_code': {
+        'compound_code': 'CJ64+75 Buenos Aires',
+        'global_code': '48Q3CJ64+75'
+      },
+      'rating': 3.7,
+      'reference': 'ChIJPyVmd5jKvJURF8APzDrjCJo',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 9
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'ADC, Rodríguez Peña 199, C1020 C1020ADC, Buenos Aires, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6068234,
+          'lng': -58.39065720000001
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.60547427010728,
+            'lng': -58.38932752010727
+          },
+          'southwest': {
+            'lat': -34.60817392989272,
+            'lng': -58.39202717989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'VERDULERIA & CARNICERIA AGUS',
+      'opening_hours': {
+        'open_now': False
+      },
+      'place_id': 'ChIJOyFAF4LLvJUR9yGDwt0qumQ',
+      'plus_code': {
+        'compound_code': '9JV5+7Q Buenos Aires',
+        'global_code': '48Q39JV5+7Q'
+      },
+      'rating': 4.3,
+      'reference': 'ChIJOyFAF4LLvJUR9yGDwt0qumQ',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 3
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'Moreno 1288, C1091 CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.6121909,
+          'lng': -58.3846388
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.61083587010728,
+            'lng': -58.38328962010727
+          },
+          'southwest': {
+            'lat': -34.61353552989272,
+            'lng': -58.38598927989272
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'La Morenita - autoservicio (Kiosco, Verduleria, Carniceria, Almacen)',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 4160,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/102276482608072598279">Oswaldo Luna</a>'
+          ],
+          'photo_reference': 'ATJ83zhIx7HGaDP3n1Rf5wXM7hphbFf-jVLCkmG0ch_H3DmkVBvQ1Lhr_OOQHmEfpP-0wMBeENYLWUKPeIq8R98gvJHkJkoQpy-OVK_jR1kFalEQVc0NUxss3n5Lv7zEt_yTWzp6qe3RGLsqUI6mTL95cHfY8cNdiNMKfc_rbfNvvEONWuJb',
+          'width': 3120
+        }
+      ],
+      'place_id': 'ChIJm2LMP9rKvJUR10y2wVCpQ0o',
+      'plus_code': {
+        'compound_code': '9JQ8+44 Buenos Aires',
+        'global_code': '48Q39JQ8+44'
+      },
+      'rating': 4.3,
+      'reference': 'ChIJm2LMP9rKvJUR10y2wVCpQ0o',
+      'types': [
+        'grocery_or_supermarket',
+        'storage',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 66
+    },
+    {
+      'business_status': 'OPERATIONAL',
+      'formatted_address': 'C1119ACT, Av. Pueyrredón 2380, C1119ACT CABA, Argentina',
+      'geometry': {
+        'location': {
+          'lat': -34.586453,
+          'lng': -58.39548010000001
+        },
+        'viewport': {
+          'northeast': {
+            'lat': -34.58515342010728,
+            'lng': -58.39409202010727
+          },
+          'southwest': {
+            'lat': -34.58785307989272,
+            'lng': -58.39679167989271
+          }
+        }
+      },
+      'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png',
+      'icon_background_color': '#4B96F3',
+      'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet',
+      'name': 'Verdulería Frutería Carnicería',
+      'opening_hours': {
+        'open_now': True
+      },
+      'photos': [
+        {
+          'height': 3024,
+          'html_attributions': [
+            '<a href="https://maps.google.com/maps/contrib/105426274132724149203">Silvio Rodriguez Molina</a>'
+          ],
+          'photo_reference': 'ATJ83zi0-sb3dMx19vKvvvZDCc4DnpiOJuthHu2rP5ok_O-F69MsQLlmJLyJtssPEtS7CKdp_X87cb4UdwXJ59cJRpwXdTFv55mBpfgf_zwIBOLK6lJQzJ6klFszuwb2uDdxHxc0fuyCBnn8LJjssXO8gCsA1l-dQJUce0umZVFOOVd7K6Jx',
+          'width': 4032
+        }
+      ],
+      'place_id': 'ChIJ9SPDTJ_KvJURuckfRs29XAQ',
+      'plus_code': {
+        'compound_code': 'CJ73+CR Buenos Aires',
+        'global_code': '48Q3CJ73+CR'
+      },
+      'rating': 4,
+      'reference': 'ChIJ9SPDTJ_KvJURuckfRs29XAQ',
+      'types': [
+        'grocery_or_supermarket',
+        'store',
+        'food',
+        'point_of_interest',
+        'establishment'
+      ],
+      'user_ratings_total': 6
+    }
+  ],
+  'status': 'OK'
+}

@@ -1,0 +1,5 @@
+fastapi
+requests
+python-slugify
+pydantic
+uvicorn

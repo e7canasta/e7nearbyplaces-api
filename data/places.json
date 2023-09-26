@@ -1,0 +1,66 @@
+{
+	"data": [
+		{
+			"id": "463af577-a8cb-4f2f-8bd2-066a7eda8884",
+			"status": "online",
+			"date_created": "2023-09-25T12:37:31.398Z",
+			"date_updated": "2023-09-25T13:14:43.524Z",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.204849,
+					-33.9746321
+				]
+			},
+			"address": "Provincia de Buenos Aires",
+			"city": null,
+			"district": null,
+			"region": null,
+			"subregion": null,
+			"postal_code": null,
+			"street": null,
+			"street_number": null,
+			"country": "Argentina",
+			"name": "",
+			"country_code": "AR",
+			"_district": "Provincia de Buenos Aires",
+			"_city": null,
+			"_region": "Zarate",
+			"_subregion": null,
+			"_country": "Argentina",
+			"alerted": null,
+			"photo": null
+		},
+		{
+			"id": "774557ac-e959-4b52-98dc-2a5282c6ee8c",
+			"status": "online",
+			"date_created": "2023-09-25T11:38:02.262Z",
+			"date_updated": "2023-09-25T11:46:15.480Z",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-58.40997475365964,
+					-34.612612612612615
+				]
+			},
+			"address": "General Urquiza 200, Buenos Aires",
+			"city": null,
+			"district": null,
+			"region": null,
+			"subregion": null,
+			"postal_code": null,
+			"street": "General Urquiza",
+			"street_number": 200,
+			"country": "Argentina",
+			"name": "",
+			"country_code": "AR",
+			"_district": "Buenos Aires",
+			"_city": null,
+			"_region": "Comuna 3",
+			"_subregion": null,
+			"_country": "Argentina",
+			"alerted": null,
+			"photo": null
+		}
+	]
+}

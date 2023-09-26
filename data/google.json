@@ -1,0 +1,1034 @@
+{
+	"html_attributions": [],
+	"next_page_token": "ATJ83zhBk5C8UTgZghCI3WZKg5US01Urulr39JtYyP1DdadDBIoXSLjw0IZ3PlvTOPeJz0Tu1NVwzIqvAZ_nYGE2iUEFzyKmFw0-tozz1hndG-1LfmBQ6HnNHTATuTDxnvSE3CzrBQxHYV1qSWq1XX1Mz2GyxvHr1xpCpt0-dQp77EHijbf6e_X2wlHiP8Aeu4YuNF55zdHQl3lHzbBsDOmjE1Su1rtmIw_yV3RRFqKoggSpYMlTD6O86Bj_8c1sDklW10gBzRw3Za-YLvmuMktbqavddJgiGMVCSGVtQeuTcXX7AG43qcZNZlSXoZ_uI5INzYr-A4NcPFirnXZKb31OlFRuj3ofx3EizNp_zOVqTC0wyiJJWwvLEFSPBNil0HI0WosgCVR5ZOy1wLA",
+	"results": [
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "La Rioja 465, C1214 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6160624,
+					"lng": -58.40837320000001
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61468867010728,
+						"lng": -58.40697717010727
+					},
+					"southwest": {
+						"lat": -34.61738832989272,
+						"lng": -58.40967682989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 3024,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/111211675713490574315\">Sebastian Arias</a>"
+					],
+					"photo_reference": "ATJ83zj9kFDxZ5SwMnBSNTzS8x77iHlpmsIVTJzwUe-ygfp1vEH6b0No-FYuclwtxIBqt1iliCM3xIrxLIoM9EhGi3xzd2GzfBn80_PNdMjfrVRfHVCVJ1uw4FPXd3Rd7Yhsp-ApSHYcQhldU-QiDV121i1PRQiEUpvoMDyLdc9xAciDbT7u",
+					"width": 4032
+				}
+			],
+			"place_id": "ChIJ8WiWjvrKvJURd8_dCKfBa28",
+			"plus_code": {
+				"compound_code": "9HMR+HM Buenos Aires",
+				"global_code": "48Q39HMR+HM"
+			},
+			"rating": 3.4,
+			"reference": "ChIJ8WiWjvrKvJURd8_dCKfBa28",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 148
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Gral. Urquiza 636, C1221 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6179538,
+					"lng": -58.4092857
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61660177010727,
+						"lng": -58.40796147010727
+					},
+					"southwest": {
+						"lat": -34.61930142989272,
+						"lng": -58.41066112989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 1280,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104445691458849662276\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zhUjqnb2hC82QURiCvD7I4tyl-6sQULidFxhjuniVjdwOolnRy5WVUAh-gsHeYStNTAXBPmVb4pHjrCKNJwi-qzqPDkZ_LmhBPCAhzZN6TQtIXFWHhKTHAZWiYa4OeF01GQcVd8_xbScjld7HC8EfvgUQTjkFVtLLeaMm4LkL7x1pPI",
+					"width": 1280
+				}
+			],
+			"place_id": "ChIJbRNksl3LvJUR5wK6Jp2on5U",
+			"plus_code": {
+				"compound_code": "9HJR+R8 Buenos Aires",
+				"global_code": "48Q39HJR+R8"
+			},
+			"rating": 3.7,
+			"reference": "ChIJbRNksl3LvJUR5wK6Jp2on5U",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 6
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Jujuy 346, C1083AAQ CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6139633,
+					"lng": -58.4049602
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61262817010727,
+						"lng": -58.40368112010727
+					},
+					"southwest": {
+						"lat": -34.61532782989272,
+						"lng": -58.40638077989271
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 3456,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/110370956264656636742\">Carlos Lingan</a>"
+					],
+					"photo_reference": "ATJ83zi4y0dyFZS9IuMBeof0k1VlTtS2x1NXpRi73PRp5GvYmH3l5PFE2PV2p5KrPqCDozevmJ0s32J2ab7g4IYY9LYzEbr4xDdFu7jjT4VjReGvN0R7Pr9SxRFCyyQ0_wQNshPaDhS5ZukuTwRcqVf5VgkcwZL7woSOnbRZanJQvGBsGikj",
+					"width": 4608
+				}
+			],
+			"place_id": "ChIJQ9EQ9u_KvJURc7dwdOingTs",
+			"plus_code": {
+				"compound_code": "9HPW+C2 Buenos Aires",
+				"global_code": "48Q39HPW+C2"
+			},
+			"rating": 3.6,
+			"reference": "ChIJQ9EQ9u_KvJURc7dwdOingTs",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 536
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Jujuy 453, C1083AAE CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6153841,
+					"lng": -58.4048558
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61401902010728,
+						"lng": -58.40342797010727
+					},
+					"southwest": {
+						"lat": -34.61671867989273,
+						"lng": -58.40612762989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado Yan",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [
+				{
+					"height": 1920,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/118085757726371163649\">Manuel Saponaro</a>"
+					],
+					"photo_reference": "ATJ83zjqIVro57nF0D_SaCK61rRFWfVp53NvT9ynv2K3sv5akiNAV7dLrljlFY3hsqv634ismTp_a52EhwtuKnzQYEOuyqnLkZDQJELr3TbEaUZT8H6CKbZVtiYnbGcaJjytEESc6vfhiosUnjlwGLYek2Mc2UTx3apqj3YnkHZxHXBb_-Gr",
+					"width": 1080
+				}
+			],
+			"place_id": "ChIJbaDtPuXKvJURslZPhhfDKpA",
+			"plus_code": {
+				"compound_code": "9HMW+R3 Buenos Aires",
+				"global_code": "48Q39HMW+R3"
+			},
+			"rating": 3,
+			"reference": "ChIJbaDtPuXKvJURslZPhhfDKpA",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 3
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "La Rioja 916, C1221 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6211125,
+					"lng": -58.4074007
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61977157010728,
+						"lng": -58.40611807010728
+					},
+					"southwest": {
+						"lat": -34.62247122989272,
+						"lng": -58.40881772989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 1600,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/112783440252413323926\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zi8bJPBZAWfz3sQeHJQSVPsY7AlfiTA-JGVpypozKSIvLELLu8NURvPGew59xtz0zAazsXX7IKnDW1LK5Vc7OFATkDVtDHBX_S2qggP7aao_3iSj6an7gbDbBUZQ-TsVc_WzlqE08iCOzimddiFhitvtGhi9eYIGUFcFU0Mt0EKfr3A",
+					"width": 900
+				}
+			],
+			"place_id": "ChIJxVW16vzKvJURskyUXIt4fTU",
+			"plus_code": {
+				"compound_code": "9HHV+H2 Buenos Aires",
+				"global_code": "48Q39HHV+H2"
+			},
+			"rating": 3.9,
+			"reference": "ChIJxVW16vzKvJURskyUXIt4fTU",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 273
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Independencia 3311, C1225 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.62054,
+					"lng": -58.4128756
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61924722010728,
+						"lng": -58.41151772010727
+					},
+					"southwest": {
+						"lat": -34.62194687989272,
+						"lng": -58.41421737989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 3000,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/116813581939008113050\">M Jeanette</a>"
+					],
+					"photo_reference": "ATJ83zhQPxLpWleoiGPb0K0khcifX35e2VvkDJcjYIvDFtLrHhtvhAaqdkiqYP-e36dAyjGOZVoCX5ZjiNtRo_OY-eRlAjVoiq7JXyI1gkIzHl0SzJjHHHeIpmX56Dzxbku43BGcplmQUFrhxwxleQJxERYeLB3StF-rD38r2g7Ers0saB_s",
+					"width": 4000
+				}
+			],
+			"place_id": "ChIJt26wXDHLvJURv1dNOYiHmcg",
+			"plus_code": {
+				"compound_code": "9HHP+QR Buenos Aires",
+				"global_code": "48Q39HHP+QR"
+			},
+			"rating": 4.2,
+			"reference": "ChIJt26wXDHLvJURv1dNOYiHmcg",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 396
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Rivadavia 3050, C1203 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6105029,
+					"lng": -58.4094864
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.60908322010727,
+						"lng": -58.40814872010728
+					},
+					"southwest": {
+						"lat": -34.61178287989272,
+						"lng": -58.41084837989273
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Día Supermarket",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 1600,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/107512162052497568211\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83ziGB8SbEckqDUuXQQaecgfKFnJaRZOpSWKqA9Fbi4VI76S3Jl8Ic5sfzAM7I0a7cSak5tmGET7wByJmmLxuaeD4buXSVhJqogMVCDt1sx9vMmdbBx9-K3w842gqmZEfkl_UtYMcgwKvRFD7FtoIMVxBU-yxkKyE0hu37PPdZcgXVIav",
+					"width": 1200
+				}
+			],
+			"place_id": "ChIJsQcxffHKvJUR_wpdwqb-IgU",
+			"plus_code": {
+				"compound_code": "9HQR+Q6 Buenos Aires",
+				"global_code": "48Q39HQR+Q6"
+			},
+			"rating": 3.8,
+			"reference": "ChIJsQcxffHKvJUR_wpdwqb-IgU",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 208
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "24 de Noviembre 965, C1224 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6222924,
+					"lng": -58.4110055
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.62091732010727,
+						"lng": -58.40949737010728
+					},
+					"southwest": {
+						"lat": -34.62361697989272,
+						"lng": -58.41219702989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 870,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/110232563251284919884\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zgTj-UTcoFzXXXPysLz_ocZRYAaWbqUZ4zCT6NWShIZ6CYDRKOEI7Ngs5mQZjQ8t5lwe8G6VA71p8CitgZ2IxRuognLAekwrKhRHjGcuGUa_8qmM93IEbAyMAyIKxu7ZxW0YNTskzc_yEaxUP7iAFS4FWVYqBFKDtLFiD39dchKZEZq",
+					"width": 1160
+				}
+			],
+			"place_id": "ChIJhbbA4zPLvJURT7qlKP6BT-o",
+			"plus_code": {
+				"compound_code": "9HHQ+3H Buenos Aires",
+				"global_code": "48Q39HHQ+3H"
+			},
+			"rating": 3.7,
+			"reference": "ChIJhbbA4zPLvJURT7qlKP6BT-o",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 74
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Independencia 257, C1099AAC CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6185076,
+					"lng": -58.40085759999999
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61718667010728,
+						"lng": -58.39950497010727
+					},
+					"southwest": {
+						"lat": -34.61988632989272,
+						"lng": -58.40220462989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado Lider",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [
+				{
+					"height": 2576,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/107327738764261759318\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zg2-Zxerf7aHEWSQDnmT1BghDR8IdHW--8naHGa-JWnfAjvcC8sWjYOLDkWP5ygE9YFfn6W4K8zfMHWucakrzOdX1e3zbc9q9Em_bE4qRkBmjMyDeHY2gqLUWWyYS3HnsxgVcbXSzH8vtuxJ5xJ1Aqva0VNuynkZ5D_Zr7NUMX5W4ce",
+					"width": 1932
+				}
+			],
+			"place_id": "ChIJNbDAkuPKvJUREZ15UA9aJoo",
+			"plus_code": {
+				"compound_code": "9HJX+JM Buenos Aires",
+				"global_code": "48Q39HJX+JM"
+			},
+			"rating": 3.9,
+			"reference": "ChIJNbDAkuPKvJUREZ15UA9aJoo",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 105
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Esparza 76, C1171 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.611781,
+					"lng": -58.41293469999999
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61043662010728,
+						"lng": -58.41164497010728
+					},
+					"southwest": {
+						"lat": -34.61313627989272,
+						"lng": -58.41434462989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado Magno",
+			"opening_hours": {
+				"open_now": false
+			},
+			"place_id": "ChIJi6gXovbKvJURMxB2sVEyDrM",
+			"plus_code": {
+				"compound_code": "9HQP+7R Buenos Aires",
+				"global_code": "48Q39HQP+7R"
+			},
+			"rating": 4.3,
+			"reference": "ChIJi6gXovbKvJURMxB2sVEyDrM",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 52
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Venezuela 2651, C1096 ABU, Buenos Aires, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.61567,
+					"lng": -58.404231
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61435787010728,
+						"lng": -58.40286832010728
+					},
+					"southwest": {
+						"lat": -34.61705752989272,
+						"lng": -58.40556797989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado Primavera",
+			"opening_hours": {
+				"open_now": false
+			},
+			"place_id": "ChIJ83ofF-XKvJURtY4AJfALiA8",
+			"plus_code": {
+				"compound_code": "9HMW+P8 Buenos Aires",
+				"global_code": "48Q39HMW+P8"
+			},
+			"rating": 4.4,
+			"reference": "ChIJ83ofF-XKvJURtY4AJfALiA8",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 18
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Boedo 431, C1218 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.61778030000001,
+					"lng": -58.4169649
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61641522010728,
+						"lng": -58.41553877010727
+					},
+					"southwest": {
+						"lat": -34.61911487989272,
+						"lng": -58.41823842989271
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 900,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/115189714704285821463\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zjghUZth3DHac3lf2sRnlYLkRGeIspn1hosZG36NPs6Rm_bnKgBBdEYTn665qmwR-onfUSrH-Rfy5LV6wzX3bIErN7UxiJhElXeTMsv4V7MuxGKd8i94PU2YwvqFdthJZs0znXPnDlCB8aN5vQikP5xxd7xiNC3i8iad06Np3H00REq",
+					"width": 1600
+				}
+			],
+			"place_id": "ChIJPSqIAfjKvJURHLzAg-19_NA",
+			"plus_code": {
+				"compound_code": "9HJM+V6 Buenos Aires",
+				"global_code": "48Q39HJM+V6"
+			},
+			"rating": 4,
+			"reference": "ChIJPSqIAfjKvJURHLzAg-19_NA",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 444
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Adolfo Alsina 2959, C1207AAC CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6124707,
+					"lng": -58.4078832
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61116507010728,
+						"lng": -58.40652997010728
+					},
+					"southwest": {
+						"lat": -34.61386472989273,
+						"lng": -58.40922962989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado Hongyun",
+			"opening_hours": {
+				"open_now": false
+			},
+			"photos": [
+				{
+					"height": 4160,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/113364427012733736281\">Roberto Balmaceda</a>"
+					],
+					"photo_reference": "ATJ83zjfwQh3oxkqwccwY8mKTfQO-bxTPxBZqu38yRoEPWXC83rir2JljVY57qbauha_peGydRf22OX2mA7e7JGbCv1DcpQyf-9kz8HSHTTyQhLZxpNroJwGl97rPpwVZaEtKhVHKamsL5t0DIlZNciT9jwW3fUw9Ug3SEJELKs73e1OA_Xs",
+					"width": 3120
+				}
+			],
+			"place_id": "ChIJNzHCsvHKvJURF9zlws3YqS4",
+			"plus_code": {
+				"compound_code": "9HQR+2R Buenos Aires",
+				"global_code": "48Q39HQR+2R"
+			},
+			"rating": 3.7,
+			"reference": "ChIJNzHCsvHKvJURF9zlws3YqS4",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 18
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Rivadavia 3566, C1204 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6110339,
+					"lng": -58.4166494
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.60960962010728,
+						"lng": -58.41530082010727
+					},
+					"southwest": {
+						"lat": -34.61230927989272,
+						"lng": -58.41800047989271
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 1600,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/102321915339154316413\">Supermercados DIA</a>"
+					],
+					"photo_reference": "ATJ83zgTqUF8EpWXJ7tcXjbOaO5agaReCKwsqhqmkIJOIgQRBW-_KLiJVDIbWCQ0sauxcRfqq3OaVemv28b5RldHZfaFXFL1dGOF0kpDXk_Yh0UTNa7cpa-y3N-hRxowQNYfC1-NWrz4sKRU_2_UgNtxU6gnBW0MUmDo1prteJKciiIbrw",
+					"width": 1200
+				}
+			],
+			"place_id": "ChIJY4X0jvXKvJURp7h8Y1iOxcw",
+			"plus_code": {
+				"compound_code": "9HQM+H8 Buenos Aires",
+				"global_code": "48Q39HQM+H8"
+			},
+			"rating": 3.9,
+			"reference": "ChIJY4X0jvXKvJURp7h8Y1iOxcw",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 273
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Boedo 250, C1206 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6149105,
+					"lng": -58.4169487
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61356522010728,
+						"lng": -58.41566882010727
+					},
+					"southwest": {
+						"lat": -34.61626487989272,
+						"lng": -58.41836847989271
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 900,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/112584651003791619172\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zgaYMjJmFm2aRgSw72up57hexLfUgO3ZRO55WbPDIY34CFiqc5mIp5LJzkUE-LUhZDqzfMdbiPZrwpEw0hEtTsX7HG83qld-p-G1l0c3aS11hOXherv7ESgBIBssjMqq3d-2r5mLe8UkJO-ZBgczpGL8Yp0BvqKKIxvJUFL5-H86Vcu",
+					"width": 1600
+				}
+			],
+			"place_id": "ChIJ70PIiP3LvJUR9To5-9A_pSw",
+			"plus_code": {
+				"compound_code": "9HPM+26 Buenos Aires",
+				"global_code": "48Q39HPM+26"
+			},
+			"rating": 4.3,
+			"reference": "ChIJ70PIiP3LvJUR9To5-9A_pSw",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 133
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. Boedo 875, C1230 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6236495,
+					"lng": -58.4164352
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.62228392010728,
+						"lng": -58.41499942010728
+					},
+					"southwest": {
+						"lat": -34.62498357989272,
+						"lng": -58.41769907989273
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 720,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/106668659846264475152\">Supermercados DIA</a>"
+					],
+					"photo_reference": "ATJ83zjhF1T5-2FGr4jwO06Hd6nqZv82yadYNKUYQI83Z-rPcJ55u1Dhy9MTzu-4k0J7zuAP1mtkxPFh2brR1KLpsOJP2_Ip7eCGxYbLvI5km7gsSk9w4RsCfNfXuyx2u7f8IfV0TbOpIqcrbNj8dtgZjMHSgc8goq-GSjFiw9mf9DMndwzT",
+					"width": 1280
+				}
+			],
+			"place_id": "ChIJmSkaQv_KvJURCvkntBoasdU",
+			"plus_code": {
+				"compound_code": "9HGM+GC Buenos Aires",
+				"global_code": "48Q39HGM+GC"
+			},
+			"rating": 3.9,
+			"reference": "ChIJmSkaQv_KvJURCvkntBoasdU",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 1329
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. San Juan 2899, C1232 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6240698,
+					"lng": -58.4057227
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.62278717010728,
+						"lng": -58.40436047010727
+					},
+					"southwest": {
+						"lat": -34.62548682989272,
+						"lng": -58.40706012989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercados DIA",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 3120,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104793139060915142961\">A Google User</a>"
+					],
+					"photo_reference": "ATJ83zim0YNf4thAmNu5IsN-NanMROGI05VuRoBFqKEFhOnlcLI4WB_utKhnUJ_dHWtTGcqq0NBX5rPMSOWU0XsJPf8suZR_lFPKjEJHwZWA5PP_POP-e-7NLfntuUeW2rINXVIQCYSCl5apuF22WR7q7NY_fuI11x2QLzuqmCbJGHSkHEOI",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJd1ewWvrLvJURRnY94uVKsTA",
+			"plus_code": {
+				"compound_code": "9HGV+9P Buenos Aires",
+				"global_code": "48Q39HGV+9P"
+			},
+			"rating": 3.3,
+			"reference": "ChIJd1ewWvrLvJURRnY94uVKsTA",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 29
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Av. San Juan 2641, C1232 CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6234487,
+					"lng": -58.4015249
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.62221347010728,
+						"lng": -58.40015452010728
+					},
+					"southwest": {
+						"lat": -34.62491312989273,
+						"lng": -58.40285417989273
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermarket DIA - San Cristobal",
+			"opening_hours": {
+				"open_now": true
+			},
+			"photos": [
+				{
+					"height": 3984,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/106826242755446984335\">Nicolas Grunberg</a>"
+					],
+					"photo_reference": "ATJ83zh4jJ_GNcLiPRZz-LTSUsfpd3YACSOHg4T7gbyY1emmDsBFB8VfhU7e-FoZO19RJ2j8BUq0RAW-yFgRW6QBgjz0hU9yOETSzTcsEWxM-ZJthFNc7roXX-wr1_NLHLyNLwC5vvkFo-d6mVdC9J0zXE2aOSVDL-BWGqgmQKO0BN4iiow0",
+					"width": 2988
+				}
+			],
+			"place_id": "ChIJpxaK8h3LvJURgCiHsweCni0",
+			"plus_code": {
+				"compound_code": "9HGX+J9 Buenos Aires",
+				"global_code": "48Q39HGX+J9"
+			},
+			"rating": 3.8,
+			"reference": "ChIJpxaK8h3LvJURgCiHsweCni0",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 805
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Catamarca 1130, C1231 AAN, Buenos Aires, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.6230402,
+					"lng": -58.40414630000001
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.62169252010728,
+						"lng": -58.40281427010727
+					},
+					"southwest": {
+						"lat": -34.62439217989272,
+						"lng": -58.40551392989271
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado 2008",
+			"opening_hours": {
+				"open_now": false
+			},
+			"place_id": "ChIJP4s5keLKvJURMsFc0A_rSYI",
+			"plus_code": {
+				"compound_code": "9HGW+Q9 Buenos Aires",
+				"global_code": "48Q39HGW+Q9"
+			},
+			"rating": 4.1,
+			"reference": "ChIJP4s5keLKvJURMsFc0A_rSYI",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 24
+		},
+		{
+			"business_status": "OPERATIONAL",
+			"formatted_address": "Alberti 207, C1082AAE CABA, Argentina",
+			"geometry": {
+				"location": {
+					"lat": -34.612302,
+					"lng": -58.40163739999999
+				},
+				"viewport": {
+					"northeast": {
+						"lat": -34.61094917010728,
+						"lng": -58.40022762010727
+					},
+					"southwest": {
+						"lat": -34.61364882989272,
+						"lng": -58.40292727989272
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+			"icon_background_color": "#4B96F3",
+			"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+			"name": "Supermercado",
+			"photos": [
+				{
+					"height": 4000,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/109235124700744573610\">anthony ojeda</a>"
+					],
+					"photo_reference": "ATJ83zhVQOXZ1b-n7KPan00DJyrD6N9wl_repxgF6ZvZZt7LfiGyn9dWnwxiH_g0wmMtFNmhCIgmKLJPEojhRXvq_BU4BPL_9v8XdyOKVy3zNMb1crr70kb6qut17ANlAQDrHcW0kbfWdlTUdbB7lECbAJN3cjyOyZ-DCNxecwuxb4rzCbQ",
+					"width": 3000
+				}
+			],
+			"place_id": "ChIJpbR2_YPLvJURG7Vpw_iGpCc",
+			"plus_code": {
+				"compound_code": "9HQX+39 Buenos Aires",
+				"global_code": "48Q39HQX+39"
+			},
+			"rating": 5,
+			"reference": "ChIJpbR2_YPLvJURG7Vpw_iGpCc",
+			"types": [
+				"supermarket",
+				"grocery_or_supermarket",
+				"food",
+				"point_of_interest",
+				"store",
+				"establishment"
+			],
+			"user_ratings_total": 2
+		}
+	],
+	"status": "OK"
+}
