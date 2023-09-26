@@ -1,0 +1,761 @@
+{
+   "plus_code" :
+   {
+      "compound_code" : "H7WH+92W Benavidez, Buenos Aires Province, Argentina",
+      "global_code" : "48Q3H7WH+92W"
+   },
+   "results" :
+   [
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "728",
+               "short_name" : "728",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Misiónes",
+               "short_name" : "Misiónes",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre",
+               "short_name" : "Tigre",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Misiónes 728, Benavidez, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : -34.4039618,
+               "lng" : -58.7225029
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.4026128197085,
+                  "lng" : -58.72115391970849
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4053107802915,
+                  "lng" : -58.72385188029151
+               }
+            }
+         },
+         "place_id" : "ChIJT2_ecs-hvJURqKJHAvp8oLk",
+         "plus_code" :
+         {
+            "compound_code" : "H7WG+CX Benavidez, Buenos Aires Province, Argentina",
+            "global_code" : "48Q3H7WG+CX"
+         },
+         "types" :
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Misiónes",
+               "short_name" : "Misiónes",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre",
+               "short_name" : "Tigre",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Misiónes 110, Benavidez, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.4042086,
+                  "lng" : -58.7225982
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4042919,
+                  "lng" : -58.72272340000001
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.4042597,
+               "lng" : -58.7226665
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.4029012697085,
+                  "lng" : -58.7213118197085
+               },
+               "southwest" :
+               {
+                  "lat" : -34.40559923029149,
+                  "lng" : -58.72400978029151
+               }
+            }
+         },
+         "place_id" : "ChIJg-dXcc-hvJURExDh_CseTjo",
+         "types" :
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "693",
+               "short_name" : "693",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Misiónes",
+               "short_name" : "Misiónes",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre",
+               "short_name" : "Tigre",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Misiónes 693, Benavidez, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : -34.40388890000001,
+               "lng" : -58.7228036
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.40253991970851,
+                  "lng" : -58.7214546197085
+               },
+               "southwest" :
+               {
+                  "lat" : -34.40523788029151,
+                  "lng" : -58.72415258029151
+               }
+            }
+         },
+         "place_id" : "ChIJ53HF3zuhvJURhd6yysTbe0M",
+         "plus_code" :
+         {
+            "compound_code" : "H7WG+CV Benavidez, Buenos Aires Province, Argentina",
+            "global_code" : "48Q3H7WG+CV"
+         },
+         "types" :
+         [
+            "establishment",
+            "point_of_interest"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "H7WH+92",
+               "short_name" : "H7WH+92",
+               "types" :
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre Partido",
+               "short_name" : "Tigre Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "H7WH+92 Benavidez, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.404,
+                  "lng" : -58.722375
+               },
+               "southwest" :
+               {
+                  "lat" : -34.404125,
+                  "lng" : -58.7225
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.4040035,
+               "lng" : -58.72241499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.4027135197085,
+                  "lng" : -58.72108851970849
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4054114802915,
+                  "lng" : -58.7237864802915
+               }
+            }
+         },
+         "place_id" : "GhIJGvz9YrYzQcAR5ZE_GHhcTcA",
+         "plus_code" :
+         {
+            "compound_code" : "H7WH+92 Benavidez, Buenos Aires Province, Argentina",
+            "global_code" : "48Q3H7WH+92"
+         },
+         "types" :
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "740-600",
+               "short_name" : "740-600",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Misiónes",
+               "short_name" : "Misiónes",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre",
+               "short_name" : "Tigre",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Misiónes 740-600, Benavidez, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.4031488,
+                  "lng" : -58.72238780000001
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4042387,
+                  "lng" : -58.7232613
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.40369380000001,
+               "lng" : -58.7228246
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.40234476970851,
+                  "lng" : -58.72147556970849
+               },
+               "southwest" :
+               {
+                  "lat" : -34.40504273029151,
+                  "lng" : -58.7241735302915
+               }
+            }
+         },
+         "place_id" : "ChIJp1nRb8-hvJURdi8UOFKeQuo",
+         "types" :
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Benavidez",
+               "short_name" : "Benavidez",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Tigre Partido",
+               "short_name" : "Tigre Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Benavidez, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.3755631,
+                  "lng" : -58.6467578
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4361383,
+                  "lng" : -58.73447669999999
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.4151715,
+               "lng" : -58.6867547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.3755631,
+                  "lng" : -58.6467578
+               },
+               "southwest" :
+               {
+                  "lat" : -34.4361383,
+                  "lng" : -58.73447669999999
+               }
+            }
+         },
+         "place_id" : "ChIJOWs1ApuhvJURq1Qux6afRc4",
+         "types" :
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Tigre Partido",
+               "short_name" : "Tigre Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Tigre Partido, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.2665979,
+                  "lng" : -58.4545287
+               },
+               "southwest" :
+               {
+                  "lat" : -34.5345419,
+                  "lng" : -58.73463390000001
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.3603966,
+               "lng" : -58.6001005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.2665979,
+                  "lng" : -58.4545287
+               },
+               "southwest" :
+               {
+                  "lat" : -34.5345419,
+                  "lng" : -58.73463390000001
+               }
+            }
+         },
+         "place_id" : "ChIJwZXXiJilvJURhrmoV2BagBA",
+         "types" :
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.2618502,
+                  "lng" : -56.66499109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -41.03791409999999,
+                  "lng" : -63.3859722
+               }
+            },
+            "location" :
+            {
+               "lat" : -37.2017285,
+               "lng" : -59.84106969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.2618502,
+                  "lng" : -56.66499109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -41.03791409999999,
+                  "lng" : -63.3859722
+               }
+            }
+         },
+         "place_id" : "ChIJ2YFSWbe87ZURRKHw3PwJ00o",
+         "types" :
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -21.7810459,
+                  "lng" : -53.6374106
+               },
+               "southwest" :
+               {
+                  "lat" : -55.1220541,
+                  "lng" : -73.5605808
+               }
+            },
+            "location" :
+            {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -21.7810459,
+                  "lng" : -53.6374106
+               },
+               "southwest" :
+               {
+                  "lat" : -55.1220541,
+                  "lng" : -73.5605808
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" :
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

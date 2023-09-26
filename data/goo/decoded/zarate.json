@@ -1,0 +1,711 @@
+{
+   "plus_code" :
+   {
+      "compound_code" : "WX3F+CPF Zarate, Buenos Aires Province, Argentina",
+      "global_code" : "48Q2WX3F+CPF"
+   },
+   "results" :
+   [
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "ASB",
+               "short_name" : "ASB",
+               "types" :
+               [
+                  "establishment",
+                  "point_of_interest"
+               ]
+            },
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Almirante Brown",
+               "short_name" : "Almte. Brown",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "B2800",
+               "short_name" : "B2800",
+               "types" :
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "ASB, Almte. Brown 38, B2800 Zárate, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "location" :
+            {
+               "lat" : -34.0964371,
+               "lng" : -59.02563199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0950881197085,
+                  "lng" : -59.02428301970849
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0977860802915,
+                  "lng" : -59.0269809802915
+               }
+            }
+         },
+         "place_id" : "ChIJq6tKX2gLu5URTsaB8JmocI8",
+         "plus_code" :
+         {
+            "compound_code" : "WX3F+CP Zarate, Buenos Aires Province, Argentina",
+            "global_code" : "48Q2WX3F+CP"
+         },
+         "types" :
+         [
+            "street_address"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "23s",
+               "short_name" : "23s",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Almirante Brown",
+               "short_name" : "Almte. Brown",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "B2800",
+               "short_name" : "B2800",
+               "types" :
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "Almte. Brown 23s, B2800 Zárate, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0963994,
+                  "lng" : -59.02577059999999
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0965485,
+                  "lng" : -59.02600689999999
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.0964871,
+               "lng" : -59.02587920000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.09512496970851,
+                  "lng" : -59.0245397697085
+               },
+               "southwest" :
+               {
+                  "lat" : -34.09782293029151,
+                  "lng" : -59.02723773029151
+               }
+            }
+         },
+         "place_id" : "ChIJXZltWGgLu5URXXhY92mwaMA",
+         "types" :
+         [
+            "premise"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "98-16",
+               "short_name" : "98-16",
+               "types" :
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Almirante Brown",
+               "short_name" : "Almte. Brown",
+               "types" :
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Zárate",
+               "short_name" : "Zárate",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Provincia de Buenos Aires",
+               "short_name" : "Provincia de Buenos Aires",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "B2800",
+               "short_name" : "B2800",
+               "types" :
+               [
+                  "postal_code"
+               ]
+            },
+            {
+               "long_name" : "ASB",
+               "short_name" : "ASB",
+               "types" :
+               [
+                  "postal_code_suffix"
+               ]
+            }
+         ],
+         "formatted_address" : "Almte. Brown 98-16, B2800ASB Zárate, Provincia de Buenos Aires, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0961456,
+                  "lng" : -59.0253543
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0969187,
+                  "lng" : -59.0259483
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.0965322,
+               "lng" : -59.0256513
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.09518316970851,
+                  "lng" : -59.02430231970848
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0978811302915,
+                  "lng" : -59.0270002802915
+               }
+            }
+         },
+         "place_id" : "ChIJjY7YXmgLu5URWJ9PNeeDSvE",
+         "types" :
+         [
+            "route"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "WX3F+CP",
+               "short_name" : "WX3F+CP",
+               "types" :
+               [
+                  "plus_code"
+               ]
+            },
+            {
+               "long_name" : "Zarate",
+               "short_name" : "Zarate",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Zárate Partido",
+               "short_name" : "Zárate Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "WX3F+CP Zarate, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.096375,
+                  "lng" : -59.025625
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0965,
+                  "lng" : -59.02575
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.0964322,
+               "lng" : -59.0257018
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0950885197085,
+                  "lng" : -59.02433851970849
+               },
+               "southwest" :
+               {
+                  "lat" : -34.0977864802915,
+                  "lng" : -59.02703648029151
+               }
+            }
+         },
+         "place_id" : "GhIJAqTs41cMQcARYzlTMkqDTcA",
+         "plus_code" :
+         {
+            "compound_code" : "WX3F+CP Zarate, Buenos Aires Province, Argentina",
+            "global_code" : "48Q2WX3F+CP"
+         },
+         "types" :
+         [
+            "plus_code"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Zarate",
+               "short_name" : "Zarate",
+               "types" :
+               [
+                  "locality",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Zárate Partido",
+               "short_name" : "Zárate Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Zarate, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0758057,
+                  "lng" : -59.0012245
+               },
+               "southwest" :
+               {
+                  "lat" : -34.1369781,
+                  "lng" : -59.0823403
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.0957811,
+               "lng" : -59.0242302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -34.0758057,
+                  "lng" : -59.0012245
+               },
+               "southwest" :
+               {
+                  "lat" : -34.1369781,
+                  "lng" : -59.0823403
+               }
+            }
+         },
+         "place_id" : "ChIJTXs1kmoLu5URXQhFwceafV8",
+         "types" :
+         [
+            "locality",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Zárate Partido",
+               "short_name" : "Zárate Partido",
+               "types" :
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Zárate Partido, Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.8063964,
+                  "lng" : -58.83720109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -34.2001219,
+                  "lng" : -59.3472409
+               }
+            },
+            "location" :
+            {
+               "lat" : -34.0327513,
+               "lng" : -59.15010559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.8063964,
+                  "lng" : -58.83720109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -34.2001219,
+                  "lng" : -59.3472409
+               }
+            }
+         },
+         "place_id" : "ChIJRfz1EjsIu5URBtk9iTLWN10",
+         "types" :
+         [
+            "administrative_area_level_2",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" :
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires Province, Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.2618502,
+                  "lng" : -56.66499109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -41.03791409999999,
+                  "lng" : -63.3859722
+               }
+            },
+            "location" :
+            {
+               "lat" : -37.2017285,
+               "lng" : -59.84106969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -33.2618502,
+                  "lng" : -56.66499109999999
+               },
+               "southwest" :
+               {
+                  "lat" : -41.03791409999999,
+                  "lng" : -63.3859722
+               }
+            }
+         },
+         "place_id" : "ChIJ2YFSWbe87ZURRKHw3PwJ00o",
+         "types" :
+         [
+            "administrative_area_level_1",
+            "political"
+         ]
+      },
+      {
+         "address_components" :
+         [
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" :
+               [
+                  "country",
+                  "political"
+               ]
+            }
+         ],
+         "formatted_address" : "Argentina",
+         "geometry" :
+         {
+            "bounds" :
+            {
+               "northeast" :
+               {
+                  "lat" : -21.7810459,
+                  "lng" : -53.6374106
+               },
+               "southwest" :
+               {
+                  "lat" : -55.1220541,
+                  "lng" : -73.5605808
+               }
+            },
+            "location" :
+            {
+               "lat" : -38.416097,
+               "lng" : -63.61667199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" :
+            {
+               "northeast" :
+               {
+                  "lat" : -21.7810459,
+                  "lng" : -53.6374106
+               },
+               "southwest" :
+               {
+                  "lat" : -55.1220541,
+                  "lng" : -73.5605808
+               }
+            }
+         },
+         "place_id" : "ChIJZ8b99fXKvJURqA_wKpl3Lz0",
+         "types" :
+         [
+            "country",
+            "political"
+         ]
+      }
+   ],
+   "status" : "OK"
+}"

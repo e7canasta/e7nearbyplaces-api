@@ -1,0 +1,324 @@
+{
+	"places": [
+		{
+			"status": "draft",
+			"name": "Verduleria y Despensa La Nueva",
+			"placeId": "ChIJQ1TrdPOnu5URntDeYL-zqvo",
+			"reference": "ChIJQ1TrdPOnu5URntDeYL-zqvo",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1920097,
+					-34.03968220000001
+				]
+			},
+			"address": "Diag. Morgan, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Diag. Morgan",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Carniceria el TVI",
+			"placeId": "ChIJpYhQxiSlu5URae8uYsAoWkA",
+			"reference": "ChIJpYhQxiSlu5URae8uYsAoWkA",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19991729999999,
+					-34.0473553
+				]
+			},
+			"address": "C. 17, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 17
+		},
+		{
+			"status": "draft",
+			"name": "Mas de Mucho",
+			"placeId": "ChIJGTQqklGnu5URoqftgi1v3UA",
+			"reference": "ChIJGTQqklGnu5URoqftgi1v3UA",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1947512,
+					-34.0430328
+				]
+			},
+			"address": "Av. 11 N230, B2806 Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Av. 11 N230",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Carnicería El Pato",
+			"placeId": "ChIJU46a3Nqnu5URsvy0Dag4gR8",
+			"reference": "ChIJU46a3Nqnu5URsvy0Dag4gR8",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19403439999999,
+					-34.0398626
+				]
+			},
+			"address": "C. 111, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 111
+		},
+		{
+			"status": "draft",
+			"name": "Carniceria Don Fortunato",
+			"placeId": "ChIJxwHdD6Slu5URQYNAZscOnAs",
+			"reference": "ChIJxwHdD6Slu5URQYNAZscOnAs",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19773379999999,
+					-34.0440476
+				]
+			},
+			"address": "C. 8, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 8
+		},
+		{
+			"status": "draft",
+			"name": "“Las Moras” Carnes",
+			"placeId": "ChIJWe9Cvvinu5URuKbZzvH4XrI",
+			"reference": "ChIJWe9Cvvinu5URuKbZzvH4XrI",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19305259999999,
+					-34.0453443
+				]
+			},
+			"address": "C. 7, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 7
+		},
+		{
+			"status": "draft",
+			"name": "LaPotto Carnicería",
+			"placeId": "ChIJRdzvhcelu5UR90B19ORtDGI",
+			"reference": "ChIJRdzvhcelu5UR90B19ORtDGI",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1963477,
+					-34.0472017
+				]
+			},
+			"address": "Av. 11 y 14, B2806 Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Av. 11 y",
+			"streetNumber": 14
+		},
+		{
+			"status": "draft",
+			"name": "Frigorífico La Estación",
+			"placeId": "ChIJ8Z6yFPSnu5URFydwVXsAEaA",
+			"reference": "ChIJ8Z6yFPSnu5URFydwVXsAEaA",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1955535,
+					-34.0425285
+				]
+			},
+			"address": "C. 4, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 4
+		},
+		{
+			"status": "draft",
+			"name": "El Gabilucho",
+			"placeId": "ChIJjTH7Ln6mu5UR__0Af0SHKH4",
+			"reference": "ChIJjTH7Ln6mu5UR__0Af0SHKH4",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19622620000001,
+					-34.0468447
+				]
+			},
+			"address": "Av. 11 551, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Av. 11",
+			"streetNumber": 551
+		},
+		{
+			"status": "draft",
+			"name": "Rama 23.7",
+			"placeId": "ChIJMdajNk-nu5URWnjroNwnE3s",
+			"reference": "ChIJMdajNk-nu5URWnjroNwnE3s",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.194053,
+					-34.0480303
+				]
+			},
+			"address": "C. 7, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C.",
+			"streetNumber": 7
+		},
+		{
+			"status": "draft",
+			"name": "Kiosco El Peme",
+			"placeId": "ChIJTYauc9alu5UR3URnlytGMsY",
+			"reference": "ChIJTYauc9alu5UR3URnlytGMsY",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1977632,
+					-34.0403566
+				]
+			},
+			"address": "Lima, Buenos Aires Province, Argentina",
+			"street": "Lima",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "El Porvenir",
+			"placeId": "ChIJyUttotWlu5UREbBQnJnY_uc",
+			"reference": "ChIJyUttotWlu5UREbBQnJnY_uc",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1975383,
+					-34.0429657
+				]
+			},
+			"address": "C. 6 665, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "C. 6",
+			"streetNumber": 665
+		},
+		{
+			"status": "draft",
+			"name": "Frutería y Verdulería Abigail",
+			"placeId": "ChIJ3UGN2Cmlu5URiYnzHqFtfHs",
+			"reference": "ChIJ3UGN2Cmlu5URiYnzHqFtfHs",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19746629999999,
+					-34.0440229
+				]
+			},
+			"address": "Lima, Buenos Aires Province, Argentina",
+			"street": "Lima",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Sabores Caseros",
+			"placeId": "ChIJK1HfVsqnu5URsszjPYi091o",
+			"reference": "ChIJK1HfVsqnu5URsszjPYi091o",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.19571930000001,
+					-34.0486903
+				]
+			},
+			"address": "Acceso a Lima 16 numero 426, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Acceso a Lima 16 numero",
+			"streetNumber": 426
+		},
+		{
+			"status": "draft",
+			"name": "Supermercado Li",
+			"placeId": "ChIJXYuTAYCmu5URvDBEObWgevM",
+			"reference": "ChIJXYuTAYCmu5URvDBEObWgevM",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1958421,
+					-34.0454584
+				]
+			},
+			"address": "Lima, Buenos Aires Province, Argentina",
+			"street": "Lima",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Kiosco Rama 24.7",
+			"placeId": "ChIJtS3qwpanu5UR9FSTesNZqKo",
+			"reference": "ChIJtS3qwpanu5UR9FSTesNZqKo",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1969546,
+					-34.0448409
+				]
+			},
+			"address": "Lima, Buenos Aires Province, Argentina",
+			"street": "Lima",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Carniceria Y Verduleria",
+			"placeId": "ChIJtVc7R2oLu5URYe5mGekdjSs",
+			"reference": "ChIJtVc7R2oLu5URYe5mGekdjSs",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.0311959,
+					-34.098767
+				]
+			},
+			"address": "Zarate, Buenos Aires Province, Argentina",
+			"street": "Zarate",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Verduleria y Fruteria Belén",
+			"placeId": "ChIJe1r4l9Wlu5URDhoBIWLCRF8",
+			"reference": "ChIJe1r4l9Wlu5URDhoBIWLCRF8",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.1964993,
+					-34.0476728
+				]
+			},
+			"address": "Av. 11, Lima, Provincia de Buenos Aires, Argentina",
+			"street": "Av.",
+			"streetNumber": 11
+		},
+		{
+			"status": "draft",
+			"name": "Fiambrería Selmar",
+			"placeId": "ChIJGzmM002lu5URfoH9_VQ18aQ",
+			"reference": "ChIJGzmM002lu5URfoH9_VQ18aQ",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.197494,
+					-34.0440167
+				]
+			},
+			"address": "Lima, Buenos Aires Province, Argentina",
+			"street": "Lima",
+			"streetNumber": 0
+		},
+		{
+			"status": "draft",
+			"name": "Fruits and Vegetables Antartida",
+			"placeId": "ChIJJ_LaNNkKu5UR8mJvunlTsI8",
+			"reference": "ChIJJ_LaNNkKu5UR8mJvunlTsI8",
+			"geopoint": {
+				"type": "Point",
+				"coordinates": [
+					-59.0627685,
+					-34.1149367
+				]
+			},
+			"address": "Av. Antártida Argentina 4726, B2800 Zárate, Provincia de Buenos Aires, Argentina",
+			"street": "Av. Antártida Argentina",
+			"streetNumber": 4726
+		}
+	]
+}
