@@ -1,10 +1,12 @@
 from fastapi import FastAPI
 
 from app.web.routes.nearby_places import nearby_places_router
+from app.web.routes.hooks_places import hooks_places_router
 
 app = FastAPI()
 
 app.include_router(nearby_places_router)
+app.include_router(hooks_places_router)
 
 
 
